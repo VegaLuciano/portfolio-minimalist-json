@@ -1,0 +1,157 @@
+{
+  "basics": {
+    "name": "Luciano Vega Luna",
+    "label": "Programador Junior .NET y Desarrollador WEB3",
+    "image": null,
+    "email": "lucianovegaln@gmail.com",
+    "phone": "+54 3874654391",
+    "url": null,
+    "summary": "Soy estudiante de programación en la UTN y también realizo cursos de forma autodidacta para expandir mis conocimientos. Poseo experiencia laboral como programador .NET y desarrollo en WEB3.",
+    "location": {
+      "address": "",
+      "postalCode": "1879",
+      "city": "Buenos Aires",
+      "countryCode": "AR",
+      "region": "Argentina"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "VegaLuciano",
+        "url": "https://github.com/VegaLuciano?tab=repositories"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Luciano Rafael Vega Luna",
+        "url": "https://www.linkedin.com/in/lucianovega-s5/"
+      }
+      
+    ]
+  },
+  "work": [
+    {
+      "name": "Insade Dark Studio",
+      "position": "WEB3 Developer",
+      "startDate": "2023-05-01",
+      "endDate": "2023-12-31",
+      "url": "",
+      "summary": "Desarrollo e implementación de una conexión mediante API's y bibliotecas, permitiendo la comunicación entre un juego en Unity y una billetera en una blockchain. Facilité transferencias de NFT's y otros datos relevantes para mejorar la experiencia del usuario."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Tecnológica Nacional",
+      "area": "Estudiante de Programación",
+      "studyType": "En Curso",
+      "startDate": "2022-03-01",
+      "endDate": "2024-12-31"
+    },
+    {
+      "institution": "Motoko Bootcamp",
+      "area": "Web 3 Developer",
+      "studyType": "",
+      "startDate": "2023-05-07",
+      "endDate": "2023-05-14"
+    },
+    {
+      "institution": "Curso C# Nivel 3[Web .Net]",
+      "area": "Desarrollador ASP.NET",
+      "studyType": "",
+      "startDate": "2024-01",
+      "endDate": "2023-02"
+    },
+    {
+      "institution": "Quilmes Programa ",
+      "area": "Programador",
+      "studyType": "",
+      "startDate": "2021-07",
+      "endDate": "2021-12"
+    }
+
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "Intermedio",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "Motoko",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "ASP.NET",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "Arduino",
+      "level": "Intermedio",
+      "keywords": []
+    },
+    {
+      "name": "Ruby",
+      "level": "Intermedio",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "Intermedio",
+      "keywords": []
+    }
+    
+  ],
+  "projects": [
+    {
+      "name": "Segundo Parcial Laboratorio 2",
+      "isActive": false,
+      "description": "CRUD en WinForm para equipos de FUTBOL, VOLEY Y BASQUET con base de datos y registro de usuarios.",
+      "highlights": ["UnitTest", "SQL", ".NET"],
+      "github": "https://github.com/VegaLuciano/Vega.Luciano.SegundoParcial",
+      "url" : ""
+    },
+    {
+      "name": "Aprendiendo React",
+      "isActive": true,
+      "description": "Curso del creador de contenido Midudev con pruebas técnicas para aprender React js, Redux js y TypeScript.",
+      "highlights": ["React js", "Redux js", "TypeScript"],
+      "github": "https://github.com/VegaLuciano/Aprendiendo-React",
+      "url" : ""
+    },
+    {
+      "name": "Desarrollo .Net",
+      "isActive": false,
+      "description": "Cátedra de ejercicios de la UTN para aprender a programar en .NET con ejercicios de BD, eventos, UnitTest, etc.",
+      "highlights": [".Net"],
+      "github": "https://github.com/VegaLuciano/Desarrollo-.Net",
+      "url" : ""
+    }
+  ]
+}
+
