@@ -2,7 +2,7 @@
   "basics": {
     "name": "Luciano Vega Luna",
     "label": "Programador Junior .NET y Desarrollador WEB3",
-    "image": null,
+    "image": "https://unavatar.io/github/VegaLuciano",
     "email": "lucianovegaln@gmail.com",
     "phone": "+54 3874654391",
     "url": null,
@@ -142,15 +142,23 @@
       "description": "Curso del creador de contenido Midudev con pruebas técnicas para aprender React js, Redux js y TypeScript.",
       "highlights": ["React js", "Redux js", "TypeScript"],
       "github": "https://github.com/VegaLuciano/Aprendiendo-React",
-      "url" : ""
+      "url" : "https://github.com/VegaLuciano/Aprendiendo-React"
     },
     {
       "name": "Desarrollo .Net",
       "isActive": false,
       "description": "Cátedra de ejercicios de la UTN para aprender a programar en .NET con ejercicios de BD, eventos, UnitTest, etc.",
-      "highlights": [".Net"],
+      "highlights": [".Net", "SQL", "UnitTest"],
       "github": "https://github.com/VegaLuciano/Desarrollo-.Net",
-      "url" : ""
+      "url" :  "https://github.com/VegaLuciano/Desarrollo-.Net"
+    },
+    {
+      "name": "Motoko Bootcamp",
+      "isActive": false,
+      "description": "Ejercicios del Bootcamp Motoko 2023 intensivo, con ejercicios escalables en dificultad para aprender Motoko.",
+      "highlights": ["Motoko"],
+      "github": "https://github.com/VegaLuciano/Motoko_Bootcamp_2023",
+      "url" : "https://github.com/VegaLuciano/Motoko_Bootcamp_2023"
     }
   ]
 }
