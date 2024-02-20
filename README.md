@@ -1,54 +1,38 @@
-# Astro Starter Kit: Basics
 
-```sh
-npm create astro@latest -- --template basics
+# Portfolio minimalista con json
+
+<p>
+Con ayuda del creador de contenido  <a href="https://github.com/midudev/minimalist-portfolio-json/blob/main/README.md?plain=1/"> MIDUDEV /a>
+</p>
+
+## 🛠️ Stack
+
+- [**Astro**](https://astro.build/) - El framework web de la nueva época.
+- [**Typescript**](https://www.typescriptlang.org/) - JavaScript con sintaxis de tipado.
+- [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys) - Menú desplegable con atajos de teclado hecho en puro JavaScript.
+
+## 🚀 Inicio Rápido
+
+### 1. Instala las dependencias
+
+Antes de comenzar, asegúrate de tener [Node.js](https://nodejs.org/) instalado. Luego, ejecuta el siguiente comando para instalar las dependencias:
+
+```bash
+npm install
+
+# Disfruta del resultado
+npm run dev
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+1. Abre [**http://localhost:4321**](http://localhost:4321/) en tu navegador para ver el resultado 🚀
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+## 🧞 Comandos
 
-## 🚀 Project Structure
+|     | Comando          | Acción                                        |
+| :-- | :--------------- | :-------------------------------------------- |
+| ⚙️  | `dev` o `start` | Lanza un servidor de desarrollo local en  `localhost:4321`.  |
+| ⚙️  | `build`          | Comprueba posibles errores y hace un empaquetado de producción en `./dist/`.      |
+| ⚙️  | `preview`        | Vista previa en local `localhost:4321` |
 
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+- [**App**](https://main--json-portfolio.netlify.app/) - Deploy
