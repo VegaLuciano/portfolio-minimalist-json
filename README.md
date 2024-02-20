@@ -3,9 +3,8 @@
 
 Mi objetivo con este proyecto era aprender nuevas tecnologias que me van a ser utiles en el futuro, en este caso ASTRO 4.
 
-
 <p>
-Con ayuda del creador de contenido  <a href="https://github.com/midudev/minimalist-portfolio-json/blob/main/README.md?plain=1/"> MIDUDEV /a>
+Con ayuda del creador de contenido  <a href="https://github.com/midudev/minimalist-portfolio-json/blob/main/README.md?plain=1/"> MIDUDEV </a>
 </p>
 
 ## 🛠️ Stack
